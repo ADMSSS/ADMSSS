@@ -1,4 +1,3 @@
-![Header](img/github-header-image.png)
 
 ## *Profile*  
 #### 💻 *Computer Science Student & Tech Enthusiast*  
