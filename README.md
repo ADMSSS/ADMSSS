@@ -1,3 +1,5 @@
+![Header](img/github-header-image.png)
+
 ## *Profile*  
 #### 💻 *Computer Science Student & Tech Enthusiast*  
 Currently pursuing a degree in programming while sharpening my skills in software development and problem-solving.  
